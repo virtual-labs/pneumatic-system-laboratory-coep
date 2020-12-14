@@ -1,0 +1,99 @@
+{
+  "broadArea": {
+    "name": "",
+    "link": "http://www.vlab.co.in/"
+  },
+  "lab": "Pneumatic System Laboratory",
+  "deployLab": true,
+  "phase": 3,
+  "collegeName": "COEP",
+  "baseUrl": "psl-coep.vlabs.ac.in",
+  "introduction": "Welcome to the Pneumatic System Laboratory",
+  "experiments": [
+    {
+      "name": "Select pneumatic cylinder for given load and speed requirement",
+      "short-name": "pneumatic-cylinder-load-speed",
+      "repo": "https://github.com/virtual-labs/exp-pneumatic-cylinder-load-speed-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Calculate load carrying capacity and speed for given pneumatic cylinder",
+      "short-name": "load-carrying-capacity-cylinder",
+      "repo": "https://github.com/virtual-labs/exp-load-carrying-capacity-cylinder-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Develop pneumatic circuit to operate direct single acting cylinder",
+      "short-name": "direct-single-acting-cylinder",
+      "repo": "https://github.com/virtual-labs/exp-direct-single-acting-cylinder-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Develop pneumatic circuit to operate direct double acting cylinder",
+      "short-name": "direct-double-acting-cylinder",
+      "repo": "https://github.com/virtual-labs/exp-direct-double-acting-cylinder-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Develop pneumatic circuit to operate indirect single acting cylinder",
+      "short-name": "indirect-single-acting-cylinder",
+      "repo": "https://github.com/virtual-labs/exp-indirect-single-acting-cylinder-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Develop pneumatic circuit to operate indirect double acting cylinder",
+      "short-name": "indirect-double-acting-cylinder",
+      "repo": "https://github.com/virtual-labs/exp-indirect-double-acting-cylinder-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Speed control of a pneumatic cylinder",
+      "short-name": "speed-control-cylinder",
+      "repo": "https://github.com/virtual-labs/exp-speed-control-cylinder-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Develop pneumatic circuit to transfer block from a magazine",
+      "short-name": "pneumatic-circuit",
+      "repo": "https://github.com/virtual-labs/exp-pneumatic-circuit-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+  ],
+  "targetAudience": {
+    "UG": ["B. Tech./ B.E in Instrumentation Engineering, Industrial Instrumentation, and Mechatronics"],
+    "PG": [
+      "MS/Ph. D. Beginners in Instrumentation Engineering, Industrial Instrumentation, and Mechatronics"
+    ]
+  },
+  "objective": " Pneumatic system has been widely used in manufacturing industry. So engineering students must get
+  exposure to pneumatic system. So we are planning to develop pneumatic simulator where all
+  pneumatic components will be available to students. We will be referring standard for building
+  pneumatic symbols. Students must be able to design the pneumatic set up for practical application.
+
+  These virtual laboratories allow students to learn pneumatic systems anytime and at anyplace.
+  Students can select pneumatic components as if they are in a real laboratory, design the
+  pneumatic circuits and test the results to practical situations. Each student has his/her own virtual
+  experiment to design the pneumatic system.",
+  
+  "courseAlignment": {
+    "description": "The syllabi of this lab aligns to the following universities in India.",
+    "universities": [
+      "Shivaji University , Kolhapur, Degree Course Instrumentation",
+      "University of Pune, Degree course, Instrumentation & Control Engineering",
+      "National Institute of Technology Trichirappalli, Degree course Instrumentation & Control",
+      "Gujarat Technological University, Ahmedabad, Gujarat, Instrumentation & Control",
+      "Thapar Institute of Engineering and Technology, B.E. (Mechatronics Engineering)",
+      "Rajasthan Technical University, B. Tech Program in Mechatronics Engineering",
+      "Manipal Academy of Higher Education, B. Tech in Mechatronics",
+      "U. P. Technical University, Luchnow, B. Tech Manufacuring Technology"
+    ]
+  }
+}
